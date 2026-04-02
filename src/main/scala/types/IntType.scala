@@ -1,3 +1,5 @@
+package types
+
 class IntType extends UserType {
 
   override def typeName(): String = "Integer"

@@ -1,3 +1,5 @@
+package types
+
 class VectorType extends UserType {
 
   override def typeName(): String = "Vector2D"

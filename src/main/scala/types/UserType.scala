@@ -1,3 +1,5 @@
+package types
+
 trait UserType {
   def typeName(): String
   def create(): Any
